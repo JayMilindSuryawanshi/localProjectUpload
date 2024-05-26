@@ -6,3 +6,5 @@
  # merging branches
  git branch / git checkout 
  
+ # Merge conflicsts 
+ on Feature
