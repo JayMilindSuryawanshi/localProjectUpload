@@ -5,4 +5,6 @@
 
  # merging branches
  git branch / git checkout 
+
+ # Merge conflicts
  
